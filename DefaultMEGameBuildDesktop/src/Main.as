@@ -38,8 +38,7 @@ package{
 			
 			///ASSETS INITS 
 			
-		
-			///// 
+			trace ("main ");
 			
 			addEventListener(Event.ADDED_TO_STAGE, init);
 		}
